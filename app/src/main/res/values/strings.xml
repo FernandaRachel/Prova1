@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prova1</string>
+    <string name="nome_busca">Nome do País</string>
+    <string name="botao_busca">Buscar</string>
+</resources>

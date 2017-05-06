@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txt_pais_nome" type="id" />
+    <item name="txt_pais_capital" type="id" />
+    <item name="txt_pais_area" type="id" />
+    <item name="txt_pais_populacao" type="id" />
+    <item name="txt_pais_moeda" type="id" />
+    <item name="pais_bandeira" type="id" />
+</resources>
